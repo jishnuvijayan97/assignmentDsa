@@ -1,4 +1,2 @@
-
 # assignmentDsa
-this repository was created. There is noth.
-And now this is edited
+This is a repository that contains questions and answers to DSA Lab Assignments in NIT Calicut CSE S4.
